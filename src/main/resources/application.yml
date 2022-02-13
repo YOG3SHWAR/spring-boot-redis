@@ -1,0 +1,7 @@
+
+spring:
+  redis:
+    host: host
+    password: xxxxx
+    port: 6380
+    ssl: true

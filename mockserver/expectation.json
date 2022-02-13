@@ -1,0 +1,17 @@
+{
+  "httpRequest": {
+    "method": "POST",
+    "path": "/business/create"
+  },
+  "httpResponse": {
+    "statusCode": 200,
+    "body": {
+      "type": "JSON",
+      "json": {
+        "BusinessId": "1234",
+        "Name": "Business Name",
+        "CreatedAt": "2022-02-07"
+      }
+    }
+  }
+}
